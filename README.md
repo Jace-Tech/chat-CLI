@@ -34,6 +34,14 @@ A simple NODE JS conversation bot made for fun.
   node main.js
   ```
 
+> Note: Chatty only replies to these questions
+
+- question: "Hi | Hello | Howdy | What's up | Hey"
+- question: "Will you kill humans?"
+- question: "How are you doing?"
+- question: "I'm ok | I'm good | I'm great | I'm cool"
+- question: "Yup | Yeah | Yea | Yes"
+
 My attempt to re-create this [https://vm.tiktok.com/ZMYAKhT5u/](https://vm.tiktok.com/ZMYAKhT5u/)
 > PS: The guy in the video 👆 was my PHYSICS / MATHS Tutor and he's awesome!
 
