@@ -42,6 +42,11 @@ A simple NODE JS conversation bot made for fun.
 - question: "I'm ok | I'm good | I'm great | I'm cool"
 - question: "Yup | Yeah | Yea | Yes"
 
+You can still add yours 😉😉
+
+<br />
+<br />
+
 My attempt to re-create this [https://vm.tiktok.com/ZMYAKhT5u/](https://vm.tiktok.com/ZMYAKhT5u/)
 > PS: The guy in the video 👆 was my PHYSICS / MATHS Tutor and he's awesome!
 
